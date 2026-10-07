@@ -38,3 +38,5 @@ build/
 local.properties
 **/android/app/build/
 **/android/.gradle/
+android/.gradle/
+.gradle/
